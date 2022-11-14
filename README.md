@@ -4,9 +4,9 @@
 
 ## Sobre min 👤
 👉 &nbsp;  &nbsp;Estudante de Análise e desenvolvimento de sistemas.<br>
-👉 &nbsp;  &nbsp;Um aspirante a Desenvolvedor Front-end.<br>
-👉 &nbsp;  &nbsp;Atualmente trabalhando em alguns projetos para meu portfólio.<br>
-👉 &nbsp;  &nbsp;Apaixonado por Games, Animes e Marvel.<br>
+👉 &nbsp;  &nbsp;Desenvolvedor de Softwares Web.<br>
+👉 &nbsp;  &nbsp;Atualmente trabalhando como voluntario no projeto Game-Hope.<br>
+👉 &nbsp;  &nbsp;Apaixonado por Games e Animes.<br>
 
 ## Minha Stack ✨
 <img align="left" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
